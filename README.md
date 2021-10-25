@@ -14,6 +14,32 @@ abstrakcji, czyli:
 + Frameworków - narzucają architekturę/strukturę projektu
 + Bibliotek poza tymi, które rozwiązują problem funkcjonalny
 
+
+## Zasady pisania modułu
+
++ natywny kod
++ pojedyncze funkcje
++ jedno rezpozytorium zawiera:
+  + plik dokumentacji: README.md
+  + plik konfiguracji (zależności w formacie webstream)
+  + plik kodu: nazwa_funkcji.js
+
+## Codereview
+
+## Deployment
+
+
+## Jakich narzędzi używamy?
++ [tools.webstream.dev](https://tools.webstream.dev/)
+
+
+## Jakich technologii używamy?
++ [stack.webstream.dev](https://stack.webstream.dev/)
+
+
+## Jakimi wartościami się kierujemy?
++ Kultura współ-pracy [culture.softreck.dev](https://culture.softreck.dev/)
+
 ---
 + [edit](https://github.com/web-stream/principles/edit/main/README.md)
 
