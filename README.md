@@ -1,7 +1,8 @@
 # [principles.webstream.dev](https://principles.webstream.dev)
 
+## Architektura
+
 + [hyper modularity](https://www.hypermodularity.com/)
-+ 
 + [Webintegration](https://de.wikipedia.org/wiki/Webintegration)
 + Web is a stream of interfaces, stream of requests [music](https://music.webstream.dev/)
 + [WebComponents](https://en.wikipedia.org/wiki/Web_Components)
