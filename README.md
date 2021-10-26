@@ -1,7 +1,23 @@
 # [principles.webstream.dev](https://principles.webstream.dev)
 
+Twórca webstream, poświęcił kilkanaście lat pracy nad projektami IT w różnych technologiach, 
+aby zbadać czynniki stojące za uzyskaniem najlepszego długofalowego efektu, zaangażowanej energii i czasu do reużycia kodu.
 
-+ Web is a stream of interfaces, stream of requests [music](https://music.webstream.dev/)
+Wnioski są następujące:
+
+# Pryncypia
+
+1. Hipermodularyzacja, czyli używanie jak najmniejszych modułów kodu, ściśle dla określonego środowiska w natywnym jezyku
+2. Definiowanie pojedynczych funkcji jako pojedynczego projektu w celu pozbycia się zależności od innych bibliotek
+3. Nie używanie frameworków i abstrakcji wprowadzających większą złożoność i wpływającą negatywnie na krzywą uczenia się
+4. Budowanie kodu na podstawie jak największej ilości już zdefiniowanej logiki, wkorzystanie już istniejących usług dostępnych przez np RestAPI
+5. Wykorzystanie dowolnej technologii dla której można zaoferować środowisko uruchomieniowe, zamiast tworzenia nowego rozwiązania w znanym języku programowania
+
+Te pryncypia są stosowane przy użyciu biblioteki WebStream oraz całego ekosystemu [wapka.pl](https://docs.wapka.pl/))
+W chwili obecnej kod jest ładowany w formie drzewa JSON z listą mediów jakie mają być załadowane
+więcej informacji tutaj:
+[docs.webstream.dev](https://docs.webstream.dev/#/)
+
 
 ## Architektura
 
@@ -42,6 +58,11 @@ abstrakcji, czyli:
 
 ## Jakimi wartościami się kierujemy?
 + Kultura współ-pracy [culture.softreck.dev](https://culture.softreck.dev/)
+
+## Muzyka, gdy słowa nie wystarczą
+
++ Web is a stream of interfaces, stream of requests [music](https://music.webstream.dev/)
+
 
 ---
 + [edit](https://github.com/web-stream/principles/edit/main/README.md)
