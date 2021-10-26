@@ -19,9 +19,14 @@ więcej informacji tutaj:
 [docs.webstream.dev](https://docs.webstream.dev/#/)
 
 
-## Architektura
 
+## Modele architektoniczne
+
+Bazujemy na pryncypiach oraz idei modularyzacji:
++ [Modularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
 + [hyper modularity](https://www.hypermodularity.com/)
+
+
 + [Webintegration](https://de.wikipedia.org/wiki/Webintegration)
 + [WebComponents](https://en.wikipedia.org/wiki/Web_Components)
 
